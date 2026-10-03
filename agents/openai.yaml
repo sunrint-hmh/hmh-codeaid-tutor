@@ -1,0 +1,6 @@
+interface:
+  display_name: "HMH CodeAid Tutor"
+  short_description: "완성 코드 대신 단계별 힌트로 돕는 HMH 프로그래밍 튜터"
+  default_prompt: "Use $hmh-codeaid-tutor to help me understand this programming problem through hints."
+policy:
+  allow_implicit_invocation: true
